@@ -74,11 +74,6 @@ const App: React.FC = () => {
         </div>
       </main>
 
-      <footer className="w-full max-w-4xl text-center mt-8 py-4">
-        <p className="text-sm text-gray-500">
-          Powered by Google Gemini. Information should be verified independently.
-        </p>
-      </footer>
     </div>
   );
 };
